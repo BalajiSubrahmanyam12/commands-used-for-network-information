@@ -1,0 +1,484 @@
+Microsoft Windows [Version 10.0.19043.1466]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\kbala>cmd
+Microsoft Windows [Version 10.0.19043.1466]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\kbala>ipconfig
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Unknown adapter Local Area Connection 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Unknown adapter Local Area Connection 3:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Unknown adapter McAfee VPN:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::edef:a984:74fa:f5ab%11
+   IPv4 Address. . . . . . . . . . . : 192.168.0.106
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.0.1
+
+Ethernet adapter Ethernet 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+C:\Users\kbala>ipconfig/all
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : LAPTOP-O4UIVKSD
+   Primary Dns Suffix  . . . . . . . :
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Physical Address. . . . . . . . . : F8-B4-6A-15-F7-1E
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Unknown adapter Local Area Connection 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : TAP-Windows Adapter V9
+   Physical Address. . . . . . . . . : 00-FF-AE-21-CF-0B
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Unknown adapter Local Area Connection 3:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : TAP-Windows Adapter V9 #2
+   Physical Address. . . . . . . . . : 00-FF-1B-F7-ED-4B
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Unknown adapter McAfee VPN:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : TAP-Windows Adapter V9 #3
+   Physical Address. . . . . . . . . : 00-FF-94-29-DF-32
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : 82-91-33-50-C4-79
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Physical Address. . . . . . . . . : 80-91-33-50-C4-79
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Realtek RTL8723DE 802.11b/g/n PCIe Adapter
+   Physical Address. . . . . . . . . : 80-91-33-50-C4-79
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::edef:a984:74fa:f5ab%11(Preferred)
+   IPv4 Address. . . . . . . . . . . : 192.168.0.106(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Tuesday, January 25, 2022 8:26:33 AM
+   Lease Expires . . . . . . . . . . : Tuesday, January 25, 2022 11:08:32 AM
+   Default Gateway . . . . . . . . . : 192.168.0.1
+   DHCP Server . . . . . . . . . . . : 192.168.0.1
+   DHCPv6 IAID . . . . . . . . . . . : 125866291
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-24-BF-D6-93-F8-B4-6A-15-F7-1E
+   DNS Servers . . . . . . . . . . . : 192.168.0.1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter Ethernet 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : TeamViewer VPN Adapter
+   Physical Address. . . . . . . . . : 00-FF-CA-29-63-15
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+C:\Users\kbala>ipconfig/release
+
+Windows IP Configuration
+
+No operation can be performed on Ethernet while it has its media disconnected.
+No operation can be performed on Local Area Connection 2 while it has its media disconnected.
+No operation can be performed on Local Area Connection 3 while it has its media disconnected.
+No operation can be performed on McAfee VPN while it has its media disconnected.
+No operation can be performed on Local Area Connection* 1 while it has its media disconnected.
+No operation can be performed on Local Area Connection* 2 while it has its media disconnected.
+No operation can be performed on Ethernet 2 while it has its media disconnected.
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Unknown adapter Local Area Connection 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Unknown adapter Local Area Connection 3:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Unknown adapter McAfee VPN:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::edef:a984:74fa:f5ab%11
+   Default Gateway . . . . . . . . . :
+
+Ethernet adapter Ethernet 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+C:\Users\kbala>ipconfig/rnew
+
+Error: unrecognized or incomplete command line.
+
+USAGE:
+    ipconfig [/allcompartments] [/? | /all |
+                                 /renew [adapter] | /release [adapter] |
+                                 /renew6 [adapter] | /release6 [adapter] |
+                                 /flushdns | /displaydns | /registerdns |
+                                 /showclassid adapter |
+                                 /setclassid adapter [classid] |
+                                 /showclassid6 adapter |
+                                 /setclassid6 adapter [classid] ]
+
+where
+    adapter             Connection name
+                       (wildcard characters * and ? allowed, see examples)
+
+    Options:
+       /?               Display this help message
+       /all             Display full configuration information.
+       /release         Release the IPv4 address for the specified adapter.
+       /release6        Release the IPv6 address for the specified adapter.
+       /renew           Renew the IPv4 address for the specified adapter.
+       /renew6          Renew the IPv6 address for the specified adapter.
+       /flushdns        Purges the DNS Resolver cache.
+       /registerdns     Refreshes all DHCP leases and re-registers DNS names
+       /displaydns      Display the contents of the DNS Resolver Cache.
+       /showclassid     Displays all the dhcp class IDs allowed for adapter.
+       /setclassid      Modifies the dhcp class id.
+       /showclassid6    Displays all the IPv6 DHCP class IDs allowed for adapter.
+       /setclassid6     Modifies the IPv6 DHCP class id.
+
+
+The default is to display only the IP address, subnet mask and
+default gateway for each adapter bound to TCP/IP.
+
+For Release and Renew, if no adapter name is specified, then the IP address
+leases for all adapters bound to TCP/IP will be released or renewed.
+
+For Setclassid and Setclassid6, if no ClassId is specified, then the ClassId is removed.
+
+Examples:
+    > ipconfig                       ... Show information
+    > ipconfig /all                  ... Show detailed information
+    > ipconfig /renew                ... renew all adapters
+    > ipconfig /renew EL*            ... renew any connection that has its
+                                         name starting with EL
+    > ipconfig /release *Con*        ... release all matching connections,
+                                         eg. "Wired Ethernet Connection 1" or
+                                             "Wired Ethernet Connection 2"
+    > ipconfig /allcompartments      ... Show information about all
+                                         compartments
+    > ipconfig /allcompartments /all ... Show detailed information about all
+                                         compartments
+
+C:\Users\kbala>ipconfig/renew
+
+Windows IP Configuration
+
+No operation can be performed on Ethernet while it has its media disconnected.
+No operation can be performed on Local Area Connection 2 while it has its media disconnected.
+No operation can be performed on Local Area Connection 3 while it has its media disconnected.
+No operation can be performed on McAfee VPN while it has its media disconnected.
+No operation can be performed on Local Area Connection* 1 while it has its media disconnected.
+No operation can be performed on Local Area Connection* 2 while it has its media disconnected.
+No operation can be performed on Ethernet 2 while it has its media disconnected.
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Unknown adapter Local Area Connection 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Unknown adapter Local Area Connection 3:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Unknown adapter McAfee VPN:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::edef:a984:74fa:f5ab%11
+   IPv4 Address. . . . . . . . . . . : 192.168.0.106
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.0.1
+
+Ethernet adapter Ethernet 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+C:\Users\kbala>ping ipaddress
+Ping request could not find host ipaddress. Please check the name and try again.
+
+C:\Users\kbala>ping www.google.in]
+Ping request could not find host www.google.in]. Please check the name and try again.
+
+C:\Users\kbala>ping www.google.in
+
+Pinging www.google.in [172.217.174.67] with 32 bytes of data:
+Reply from 172.217.174.67: bytes=32 time=467ms TTL=59
+Reply from 172.217.174.67: bytes=32 time=31ms TTL=59
+Reply from 172.217.174.67: bytes=32 time=30ms TTL=59
+Reply from 172.217.174.67: bytes=32 time=32ms TTL=59
+
+Ping statistics for 172.217.174.67:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 30ms, Maximum = 467ms, Average = 140ms
+
+C:\Users\kbala>ping www.google.in
+
+Pinging www.google.in [172.217.174.67] with 32 bytes of data:
+Reply from 172.217.174.67: bytes=32 time=31ms TTL=59
+Reply from 172.217.174.67: bytes=32 time=30ms TTL=59
+Reply from 172.217.174.67: bytes=32 time=36ms TTL=59
+Reply from 172.217.174.67: bytes=32 time=30ms TTL=59
+
+Ping statistics for 172.217.174.67:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 30ms, Maximum = 36ms, Average = 31ms
+
+C:\Users\kbala>ping www.google.in
+
+Pinging www.google.in [172.217.174.67] with 32 bytes of data:
+Reply from 172.217.174.67: bytes=32 time=96ms TTL=59
+Reply from 172.217.174.67: bytes=32 time=89ms TTL=59
+Reply from 172.217.174.67: bytes=32 time=32ms TTL=59
+Reply from 172.217.174.67: bytes=32 time=35ms TTL=59
+
+Ping statistics for 172.217.174.67:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 32ms, Maximum = 96ms, Average = 63ms
+
+C:\Users\kbala>nslookup
+Default Server:  UnKnown
+Address:  192.168.0.1
+
+> nslookup www.google.com
+Server:  www.google.com
+Addresses:  2404:6800:4009:813::2004
+          142.250.67.196
+
+*** www.google.com can't find nslookup: No response from server
+> nslookup google.com
+Server:  google.com
+Addresses:  2404:6800:4009:815::200e
+          172.217.174.78
+
+*** google.com can't find nslookup: No response from server
+> nslookup google.in
+Server:  google.in
+Addresses:  2404:6800:4009:809::2004
+          216.58.196.68
+
+*** google.in can't find nslookup: No response from server
+> nslookup classrom.google.com
+*** Can't find address for server classrom.google.com: Non-existent domain
+> classrom.google.com
+Server:  UnKnown
+Address:  192.168.0.1
+
+*** UnKnown can't find classrom.google.com: Non-existent domain
+> nslookup google.in
+Server:  google.in
+Addresses:  2404:6800:4009:809::2004
+          216.58.196.68
+
+*** google.in can't find nslookup: No response from server
+> hostname
+Server:  UnKnown
+Address:  192.168.0.1
+
+*** UnKnown can't find hostname: Non-existent domain
+>
+C:\Users\kbala>hostname
+LAPTOP-O4UIVKSD
+
+C:\Users\kbala>nslookup www.google.com
+Server:  UnKnown
+Address:  192.168.0.1
+
+Non-authoritative answer:
+Name:    www.google.com
+Addresses:  2404:6800:4009:813::2004
+          142.250.67.196
+
+
+C:\Users\kbala>hostname
+LAPTOP-O4UIVKSD
+
+C:\Users\kbala>getmac
+
+Physical Address    Transport Name
+=================== ==========================================================
+F8-B4-6A-15-F7-1E   Media disconnected
+80-91-33-50-C4-79   \Device\Tcpip_{6C0124E0-DD57-4F09-8BDC-851B0052DF5E}
+00-FF-CA-29-63-15   Media disconnected
+00-FF-AE-21-CF-0B   Media disconnected
+00-FF-1B-F7-ED-4B   Media disconnected
+00-FF-94-29-DF-32   Media disconnected
+
+C:\Users\kbala>netstat
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State
+  TCP    127.0.0.1:52291        LAPTOP-O4UIVKSD:49350  TIME_WAIT
+  TCP    127.0.0.1:52292        LAPTOP-O4UIVKSD:49350  TIME_WAIT
+  TCP    127.0.0.1:52293        LAPTOP-O4UIVKSD:49350  TIME_WAIT
+  TCP    127.0.0.1:52294        LAPTOP-O4UIVKSD:49350  TIME_WAIT
+  TCP    127.0.0.1:52295        LAPTOP-O4UIVKSD:49350  TIME_WAIT
+  TCP    127.0.0.1:52297        LAPTOP-O4UIVKSD:49350  TIME_WAIT
+  TCP    127.0.0.1:52298        LAPTOP-O4UIVKSD:49350  TIME_WAIT
+  TCP    127.0.0.1:52299        LAPTOP-O4UIVKSD:49350  TIME_WAIT
+  TCP    127.0.0.1:52300        LAPTOP-O4UIVKSD:49350  TIME_WAIT
+  TCP    127.0.0.1:52301        LAPTOP-O4UIVKSD:49350  TIME_WAIT
+  TCP    127.0.0.1:52302        LAPTOP-O4UIVKSD:49350  TIME_WAIT
+  TCP    127.0.0.1:52303        LAPTOP-O4UIVKSD:49350  TIME_WAIT
+  TCP    127.0.0.1:52304        LAPTOP-O4UIVKSD:49350  TIME_WAIT
+  TCP    127.0.0.1:52305        LAPTOP-O4UIVKSD:49350  TIME_WAIT
+  TCP    127.0.0.1:52306        LAPTOP-O4UIVKSD:49350  TIME_WAIT
+  TCP    127.0.0.1:52307        LAPTOP-O4UIVKSD:49350  TIME_WAIT
+  TCP    127.0.0.1:52308        LAPTOP-O4UIVKSD:49350  TIME_WAIT
+  TCP    127.0.0.1:52309        LAPTOP-O4UIVKSD:49350  TIME_WAIT
+  TCP    127.0.0.1:52310        LAPTOP-O4UIVKSD:49350  TIME_WAIT
+  TCP    127.0.0.1:52311        LAPTOP-O4UIVKSD:49350  TIME_WAIT
+  TCP    127.0.0.1:52312        LAPTOP-O4UIVKSD:49350  TIME_WAIT
+  TCP    127.0.0.1:52313        LAPTOP-O4UIVKSD:49350  TIME_WAIT
+  TCP    127.0.0.1:53332        LAPTOP-O4UIVKSD:49350  TIME_WAIT
+  TCP    127.0.0.1:53333        LAPTOP-O4UIVKSD:49350  TIME_WAIT
+  TCP    127.0.0.1:53334        LAPTOP-O4UIVKSD:49350  TIME_WAIT
+  TCP    127.0.0.1:53335        LAPTOP-O4UIVKSD:49350  TIME_WAIT
+  TCP    127.0.0.1:53849        LAPTOP-O4UIVKSD:49350  TIME_WAIT
+  TCP    192.168.0.106:50993    20.185.212.106:https   ESTABLISHED
+  TCP    192.168.0.106:52261    20.195.65.203:https    ESTABLISHED
+  TCP    192.168.0.106:52268    219:https              TIME_WAIT
+  TCP    192.168.0.106:52287    a23-221-52-173:http    TIME_WAIT
+  TCP    192.168.0.106:52296    server-13-249-224-29:https  ESTABLISHED
+  TCP    192.168.0.106:52659    20.198.162.78:https    ESTABLISHED
+  TCP    192.168.0.106:52664    20.198.162.78:https    ESTABLISHED
+  TCP    192.168.0.106:52681    104.17.115.40:https    ESTABLISHED
+  TCP    192.168.0.106:53331    192.229.232.200:https  ESTABLISHED
+  TCP    192.168.0.106:53348    13.76.153.29:https     ESTABLISHED
+  TCP    192.168.0.106:53848    40.115.154.222:https   ESTABLISHED
+  TCP    192.168.0.106:60428    20.185.212.106:https   ESTABLISHED
+  TCP    192.168.0.106:60431    244:https              ESTABLISHED
+  TCP    192.168.0.106:60432    244:https              ESTABLISHED
+  TCP    192.168.0.106:60433    244:https              ESTABLISHED
+
+C:\Users\kbala>arp -a
+
+Interface: 192.168.0.106 --- 0xb
+  Internet Address      Physical Address      Type
+  192.168.0.1           84-d8-1b-a9-3f-60     dynamic
+  192.168.0.255         ff-ff-ff-ff-ff-ff     static
+  224.0.0.22            01-00-5e-00-00-16     static
+  224.0.0.251           01-00-5e-00-00-fb     static
+  224.0.0.252           01-00-5e-00-00-fc     static
+  239.255.255.250       01-00-5e-7f-ff-fa     static
+
+C:\Users\kbala>
